@@ -5,3 +5,6 @@ Stack: MVVM, Clean Architecture, Jetpack Compose, Dagger Hilt, Retrofit, Room, K
 2) When logging into the application, a GET request is sent to the server to get a list of pizzas. Upon successful download, the information is cached in the internal database.
 3) In the absence of the Internet, there is an appeal to the local database to download the data.
 4) Lottie animation icon on Bottom Bar.
+
+
+![Alt text](photo_2023-11-05_18-08-12.jpg)
