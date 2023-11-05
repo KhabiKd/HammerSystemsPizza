@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hammer Systems Pizza</string>
+    <string name="pizza_price">От %d р</string>
+</resources>
